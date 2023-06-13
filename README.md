@@ -20,4 +20,4 @@
 
 ![image](https://github.com/cy2000yadav/Super-Store-Sales-Dashboard/assets/77014258/5ea8b903-4efb-4508-b282-349bf727f68f)
 
-##15 Days Sales Forecast
+## 15 Days Sales Forecast
